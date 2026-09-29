@@ -12,3 +12,5 @@ Personal portfolio for Mahdeen Mahboob Mannaf.
 This repository deploys automatically to Vercel from the main branch.
 
 Deployment trigger: Git integration verified.
+
+mahdeenmannaf.vercel.app deployment trigger
