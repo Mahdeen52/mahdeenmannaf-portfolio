@@ -9,4 +9,4 @@ Personal portfolio for Mahdeen Mahboob Mannaf.
 - Previous AI Engineer Intern at Doodlepad.ai / Amezy Insights Inc.
 - AI, ML, data and full stack project work
 
-This repository is intended to deploy as a static site on Vercel.
+This repository deploys automatically to Vercel from the main branch.
