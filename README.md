@@ -10,3 +10,5 @@ Personal portfolio for Mahdeen Mahboob Mannaf.
 - AI, ML, data and full stack project work
 
 This repository deploys automatically to Vercel from the main branch.
+
+Deployment trigger: Git integration verified.
